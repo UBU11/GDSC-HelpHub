@@ -52,8 +52,7 @@
        <li> Run the script http://localhost/folderName </li> </ol>
 
 <h2>view project :</h2>
-<a href="@">view ppt</a> 
 |
-<a href="@" > view demo</a>
+<a href="https://ubu11.github.io/GDSC-HelpHub/" > view demo</a>
 |
-<a href="@">watch video</a>
+<a href="$">watch video</a>
